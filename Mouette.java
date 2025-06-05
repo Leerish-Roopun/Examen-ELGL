@@ -1,4 +1,5 @@
 public class Mouette extends Véhicule {
+
     private int nombreDeGiletsDeSauvetage;
 
 
