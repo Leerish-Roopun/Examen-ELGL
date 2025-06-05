@@ -1,4 +1,4 @@
-public class Mouette extends Véhicule {
+public class Mouette10 extends Véhicule {
 
     private int nombreDeGiletsDeSauvetage;
 
